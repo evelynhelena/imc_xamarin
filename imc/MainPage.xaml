@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="imc.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Cálculo IMC!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout BackgroundColor="#ccc" Margin="10" Padding="10">
+        <Label
+            Text="Informe seu Peso"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"
+            FontSize="Large"
+            FontAttributes="Bold"
+            TextColor="black"
+            />
+            <Entry
+                x:Name="text_peso"
+                Placeholder="Peso"
+                Keyboard="Numeric"
+                />
+        <Label
+            Text="Informe sua Altura"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"
+            FontSize="Large"
+            FontAttributes="Bold"
+            TextColor="black"
+            Margin="10"
+            />
+            <Entry
+                x:Name="text_altura"
+                Placeholder="Altura"
+                Keyboard="Numeric"
+                />
+            <Button Text="Calcular"
+                HorizontalOptions="Center"
+                Clicked="Button_Clicked"
+                    BackgroundColor="#888"
+                    TextColor="#fff"
+                    />
+        </StackLayout>
+
+        <StackLayout BackgroundColor="#ccc" Margin="10" Padding="10">
+            <Label
+            Text="Seu IMC é:"
+            HorizontalOptions="Center"
+            FontSize="Large"
+            FontAttributes="Bold"
+
+            />
+            <Label
+            x:Name="text_resultado"
+            HorizontalOptions="Center"
+            FontSize="Large"
+            FontAttributes="Bold"
+
+            />
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

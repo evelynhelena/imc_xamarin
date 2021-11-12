@@ -1,0 +1,14 @@
+D:\etec\3Sem\pam2\imc\imc\bin\Debug\netstandard2.0\imc.deps.json
+D:\etec\3Sem\pam2\imc\imc\bin\Debug\netstandard2.0\imc.dll
+D:\etec\3Sem\pam2\imc\imc\bin\Debug\netstandard2.0\ref\imc.dll
+D:\etec\3Sem\pam2\imc\imc\bin\Debug\netstandard2.0\imc.pdb
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.csprojAssemblyReference.cache
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.AssemblyInfoInputs.cache
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.AssemblyInfo.cs
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.csproj.CoreCompileInputs.cache
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\XamlC.stamp
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.dll
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\ref\imc.dll
+D:\etec\3Sem\pam2\imc\imc\obj\Debug\netstandard2.0\imc.pdb
